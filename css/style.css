@@ -1,0 +1,23 @@
+html,
+body {
+    height: 100%;
+}
+
+.marg {
+    margin-top: 30px;
+}
+
+.largura{ 
+    width: 100%;
+} 
+
+footer {
+    text-align: center;
+    background-color: #202327;
+    color: #FFFFFF;
+    padding-top: 0.3rem;
+    position:absolute;
+    bottom:0;
+    width:100%;
+
+}
